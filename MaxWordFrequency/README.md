@@ -1,10 +1,10 @@
-### Calculate Maximum Word Frequency
+## Calculate Maximum Word Frequency
 
-## What it does
+### What it does
 
 1. finding the highest frequency word(s) in each line
 2. finding lines in the file whose "highest frequency words"
 is the greatest value among all lines.
 
-## How to run
+### How to run
 Run ruby solution.rb
