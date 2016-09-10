@@ -1,4 +1,5 @@
-## Ruby Repo
+## Ruby repo
 
-Misc code repo for learnig ruby
+Misc code repo for learning ruby
+
 
